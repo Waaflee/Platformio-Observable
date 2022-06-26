@@ -5,12 +5,12 @@
   "keywords": "observable, c++14, data, events",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Waaflee/Platformio-Observable.git",
+    "url": "https://github.com/Waaflee/Platformio-Observable.git"
   },
   "authors": [
     {
       "name": "Daniel Dinu",
-      "url": "https://danieldinu.com/"
+      "url": "https://danieldinu.com/",
       "email": "daniel@danieldinu.com"
     },
     {
