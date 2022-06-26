@@ -1,0 +1,26 @@
+{
+  "name": "Observable",
+  "version": "1.0.0",
+  "description": "Observable: Generic observable objects for C++",
+  "keywords": "observable, c++14, data, events",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Waaflee/Platformio-Observable.git"
+  },
+  "authors": [
+    {
+      "name": "Daniel Dinu",
+      "url": "https://danieldinu.com/"
+      "email": "daniel@danieldinu.com"
+    },
+    {
+      "name": "Agustín Marinsalda Pastor",
+      "url": "https://github.com/Waaflee",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Waaflee/Platformio-Observable",
+  "frameworks": "*",
+  "platforms": "*"
+}
